@@ -1,4 +1,4 @@
-![Project Python](https://github.com/user-attachments/assets/ae0bb07c-6540-4c9a-938e-5e00f0d40ed2)
+![Project Python(Original)](https://github.com/user-attachments/assets/b17cd200-d9f2-44fa-8dd8-eab7343b740d)
 
 
 # Small-projects-with-Python
