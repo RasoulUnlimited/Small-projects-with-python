@@ -50,3 +50,6 @@ Also known as **Rasoul Unlimited (رسول آنلیمیتد)** ♾
   <a href="https://medium.com/@rasoulunlimited"><img src="https://img.shields.io/badge/Medium-@rasoulunlimited-black?style=for-the-badge&logo=medium"/></a>
   <a href="https://orcid.org/0009-0004-7177-2080"><img src="https://img.shields.io/badge/ORCID-0009--0004--7177--2080-brightgreen?style=for-the-badge&logo=orcid"/></a>
 </p>
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.15548859"><img src="https://zenodo.org/badge/770882662.svg" alt="DOI"></a>
+</p>
