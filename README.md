@@ -5,6 +5,15 @@
 <h2 align="center">Small Projects with Python</h2>
 <p align="center">A collection of academic and basic practice exercises coded in Python language, projects done for Sahand University of Technology (Tabriz).</p>
 
+## Overview
+
+These short programs were created as introductory coursework for the
+**Python Programming** module at **Sahand University of Technology**.
+The goal is to practice fundamental concepts&mdash;input handling, loops,
+conditionals and basic algorithms&mdash;while cultivating clear coding style.
+Although the examples are simple, they form a foundation for tackling more
+advanced numerical problems and entry-level AI algorithms in the future.
+
 ---
 
 ## 📁 Folder Structure
@@ -50,13 +59,33 @@ Also known as **Rasoul Unlimited (رسول آنلیمیتد)** ♾
   <a href="https://medium.com/@rasoulunlimited"><img src="https://img.shields.io/badge/Medium-@rasoulunlimited-black?style=for-the-badge&logo=medium"/></a>
   <a href="https://orcid.org/0009-0004-7177-2080"><img src="https://img.shields.io/badge/ORCID-0009--0004--7177--2080-brightgreen?style=for-the-badge&logo=orcid"/></a>
 </p>
+
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.15548859"><img src="https://zenodo.org/badge/770882662.svg" alt="DOI"></a>
 </p>
 
+## 📦 Release
+
+The current stable version is **v1.0.0**. It is tagged in this repository and archived on Zenodo so the DOI above always resolves to the latest release.
+
+
+
 ## ✍️ Citation
 
-If you build on this work, please cite the [CITATION.cff](CITATION.cff) file or use the DOI badge above. Proper citation helps support continued development and ensures reproducibility.
+This repository is archived on [Zenodo](https://doi.org/10.5281/zenodo.15548859) where each release receives a DOI. To cite the stable version:
+
+```
+@software{Sohrabi2024,
+  author = {Sohrabi, Mohammad Rasoul},
+  title  = {Small Projects with Python},
+  version = {1.0.0},
+  date   = {2024-05-01},
+  doi    = {10.5281/zenodo.15548859},
+  url    = {https://github.com/RasoulUnlimited/Small-projects-with-python}
+}
+```
+
+The same information is provided in [CITATION.cff](CITATION.cff) and [CITATION.bib](CITATION.bib).
 
 ---
 
