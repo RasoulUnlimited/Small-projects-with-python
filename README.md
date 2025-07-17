@@ -53,3 +53,14 @@ Also known as **Rasoul Unlimited (رسول آنلیمیتد)** ♾
 <p align="center">
   <a href="https://doi.org/10.5281/zenodo.15548859"><img src="https://zenodo.org/badge/770882662.svg" alt="DOI"></a>
 </p>
+
+## ✍️ Citation
+
+If you build on this work, please cite the [CITATION.cff](CITATION.cff) file or use the DOI badge above. Proper citation helps support continued development and ensures reproducibility.
+
+---
+
+## 🌐 Documentation
+
+A minimal website for this project is available via [Rasoul Unlimited Official Website](https://rasoulunlimited.ir/projects/python-projects/). It uses Cloudflare for performance and security.
+
