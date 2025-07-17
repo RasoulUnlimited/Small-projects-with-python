@@ -43,7 +43,7 @@ advanced numerical problems and entry-level AI algorithms in the future.
 **Mohammad Rasoul Sohrabi (محمد رسول سهرابی)**  
 Also known as **Rasoul Unlimited (رسول آنلیمیتد)** ♾
 
-- 🧠 Biomedical Engineering Student – University of Tehran  
+- 🧠 Biomedical Engineering Student – Islamic Azad University, Central Tehran Branch
 - 💻 Developer & Brand Strategist  
 - 🥋 National Karate Champion  
 - 📡 Passionate about AI, open-source, and digital identity
