@@ -17,7 +17,15 @@
   "license": "MIT",
   "programmingLanguage": "Python",
   "citation": "https://doi.org/10.5281/zenodo.15548859",
-  "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"]
+  "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Python Programming, Sahand University of Technology"
+  },
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.15548859",
+    "https://orcid.org/0009-0004-7177-2080"
+  ]
 }
 -->
 
@@ -109,7 +117,7 @@ This repository is archived on [Zenodo](https://doi.org/10.5281/zenodo.15548859)
   author = {Sohrabi, Mohammad Rasoul},
   title  = {Small Projects with Python},
   version = {1.0.0},
-  date   = {2024-05-01},
+  date   = {2024-06-01},
   doi    = {10.5281/zenodo.15548859},
   url    = {https://github.com/RasoulUnlimited/Small-projects-with-python}
 }

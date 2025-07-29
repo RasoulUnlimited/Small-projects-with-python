@@ -16,6 +16,14 @@
     "programmingLanguage": "Python",
     "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
     "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
+    "referencePublication": "https://rasoulunlimited.ir/projects/python-projects/",
+    "developmentStatus": "active",
+    "maintainer": {
+      "@type": "Person",
+      "name": "Rasoul Unlimited",
+      "email": "rasoul.unlimited@gmail.com"
+    },
+    "relatedLink": "https://rasoulunlimited.ir/projects/python-projects/",
     "identifier": "https://doi.org/10.5281/zenodo.15548859"
   }
   

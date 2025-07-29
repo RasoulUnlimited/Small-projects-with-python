@@ -24,6 +24,14 @@
         "relation": "isDocumentedBy",
         "identifier": "https://rasoulunlimited.ir/projects/python-projects/",
         "scheme": "url"
+      },
+      {
+        "relation": "isRelatedTo",
+        "identifier": "https://orcid.org/0009-0004-7177-2080",
+        "scheme": "orcid"
       }
+    ],
+    "communities": [
+      {"identifier": "opensource"}
     ]
   }
