@@ -7,12 +7,13 @@ def ask_count_num():
             break
         except AssertionError:
             print("adad balatar az 0 vared konid.")
-        return
     total_sum = 0
     for i in range(numbercount):
-        number = int(input(f"adad {count+1} ra vared konid: "))
+        number = int(input(f"adad {i+1} ra vared konid: "))
         total_sum += number
-    
+
     print(f"majmo adad barabar ba {total_sum} mibashad.")
+
+    return
 
 ask_count_num()

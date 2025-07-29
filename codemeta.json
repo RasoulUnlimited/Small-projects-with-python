@@ -1,0 +1,18 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "Small Projects with Python",
+    "description": "A curated collection of beginner Python exercises originally developed for coursework at Sahand University of Technology.",
+    "author": [{
+      "@type": "Person",
+      "givenName": "Mohammad Rasoul",
+      "familyName": "Sohrabi",
+      "affiliation": "School of Electrical and Computer Engineering, University of Tehran",
+      "identifier": "https://orcid.org/0009-0004-7177-2080"
+    }],
+    "license": "MIT",
+    "programmingLanguage": "Python",
+    "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
+    "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
+    "identifier": "https://doi.org/10.5281/zenodo.15548859"
+  }

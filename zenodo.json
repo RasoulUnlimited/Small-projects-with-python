@@ -1,0 +1,29 @@
+{
+    "title": "Small Projects with Python",
+    "upload_type": "software",
+    "publication_date": "2024-06-01",
+    "creators": [
+      {
+        "name": "Sohrabi, Mohammad Rasoul",
+        "affiliation": "School of Electrical and Computer Engineering, University of Tehran",
+        "orcid": "https://orcid.org/0009-0004-7177-2080"
+      }
+    ],
+    "description": "A curated collection of beginner-friendly Python exercises originally developed for coursework at Sahand University of Technology. While simple, the examples lay the groundwork for exploration in numerical methods and basic AI algorithms.",
+    "license": "MIT",
+    "version": "1.0.0",
+    "doi": "10.5281/zenodo.15548859",
+    "keywords": ["Python", "education", "algorithms", "numerical-methods"],
+    "related_identifiers": [
+      {
+        "relation": "isSupplementTo",
+        "identifier": "https://github.com/RasoulUnlimited/Small-projects-with-python",
+        "scheme": "url"
+      },
+      {
+        "relation": "isDocumentedBy",
+        "identifier": "https://rasoulunlimited.ir/projects/python-projects/",
+        "scheme": "url"
+      }
+    ]
+  }

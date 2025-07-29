@@ -3,17 +3,14 @@ message: "If you use this software, please cite it using the metadata below."
 title: "Small Projects with Python"
 version: "1.0.0"
 doi: "10.5281/zenodo.15548859"
-date-released: 2024-03-12
-abstract: "A collection of basic practice exercises in Python developed for Sahand University of Technology."
 authors:
-  - family-names: "Sohrabi"
-    given-names: "Mohammad Rasoul"
+ - name: "Rasol Unlimited"
     orcid: "https://orcid.org/0009-0004-7177-2080"
     affiliation: "School of Electrical and Computer Engineering, University of Tehran"
 repository-code: "https://github.com/RasoulUnlimited/Small-projects-with-python"
 license: "MIT"
 url: "https://rasoulunlimited.ir/projects/python-projects/"
-abstract: >
+abstract: |
   A curated collection of beginner-friendly Python exercises originally
   developed for coursework at Sahand University of Technology. While simple,
   the examples lay the groundwork for exploration in numerical methods and
@@ -24,3 +21,12 @@ keywords:
   - education
   - algorithms
   - numerical-methods
+preferred-citation: |
+  @software{Sohrabi2024,
+    author       = {Sohrabi, Mohammad Rasoul},
+    title        = {Small Projects with Python},
+    version      = {1.0.0},
+    date         = {2024-05-01},
+    doi          = {10.5281/zenodo.15548859},
+    url          = {https://github.com/RasoulUnlimited/Small-projects-with-python},
+  }

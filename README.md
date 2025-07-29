@@ -1,16 +1,32 @@
+[![DOI](https://zenodo.org/badge/770882662.svg)](https://doi.org/10.5281/zenodo.15548859) [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/RasoulUnlimited/Small-projects-with-python/releases/tag/v1.0.0)
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b17cd200-d9f2-44fa-8dd8-eab7343b740d" alt="Project Python Logo" width="900"/>
 </p>
 
 <h2 align="center">Small Projects with Python</h2>
 <p align="center">A collection of academic and basic practice exercises coded in Python language, projects done for Sahand University of Technology (Tabriz).</p>
+<!--
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "Small Projects with Python",
+  "description": "A collection of academic and basic practice exercises coded in Python language, projects done for Sahand University of Technology (Tabriz).",
+  "url": "https://github.com/RasoulUnlimited/Small-projects-with-python",
+  "license": "MIT",
+  "programmingLanguage": "Python",
+  "citation": "https://doi.org/10.5281/zenodo.15548859",
+  "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"]
+}
+-->
 
 ## Table of Contents
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Folder Structure](#-folder-structure)
 - [Release](#-release)
-- [Citation](#-citation)
+- [How to cite this project](#-how-to-cite-this-project)
 - [About the Developer](#-about-the-developer)
 - [Connect With Me](#-connect-with-me)
 - [Documentation](#-documentation)
@@ -88,7 +104,7 @@ The current stable version is **v1.0.0**. It is tagged in this repository and ar
 
 
 
-## ✍️ Citation
+## ✍️ How to cite this project
 
 This repository is archived on [Zenodo](https://doi.org/10.5281/zenodo.15548859) where each release receives a DOI. To cite the stable version:
 
@@ -103,7 +119,8 @@ This repository is archived on [Zenodo](https://doi.org/10.5281/zenodo.15548859)
 }
 ```
 
-The same information is provided in [CITATION.cff](CITATION.cff) and [CITATION.bib](CITATION.bib).
+The same information is provided in [CITATION.cff](CITATION.cff) and [CITATION.bib](CITATION.bib). The author's ORCID is [0009-0004-7177-2080](https://orcid.org/0009-0004-7177-2080).
+
 
 ---
 

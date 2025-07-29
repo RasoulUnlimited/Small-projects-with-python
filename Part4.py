@@ -1,3 +1,3 @@
 import math
-print(math.sqrt(int(input('x: ')))
+print(math.sqrt(int(input('x: '))))
 
