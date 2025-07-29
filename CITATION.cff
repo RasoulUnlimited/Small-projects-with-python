@@ -4,7 +4,7 @@ title: "Small Projects with Python"
 version: "1.0.0"
 doi: "10.5281/zenodo.15548859"
 authors:
- - name: "Rasol Unlimited"
+ - name: "Rasoul Unlimited"
     orcid: "https://orcid.org/0009-0004-7177-2080"
     affiliation: "School of Electrical and Computer Engineering, University of Tehran"
 repository-code: "https://github.com/RasoulUnlimited/Small-projects-with-python"
@@ -30,3 +30,4 @@ preferred-citation: |
     doi          = {10.5281/zenodo.15548859},
     url          = {https://github.com/RasoulUnlimited/Small-projects-with-python},
   }
+  

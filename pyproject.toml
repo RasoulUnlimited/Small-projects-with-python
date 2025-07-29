@@ -1,6 +1,6 @@
 [project]
 name = "small-projects-with-python"
 version = "1.0.0"
-authors = [ { name = "Rasol Unlimited" } ]
+authors = [ { name = "Rasoul Unlimited" } ]
 license = { text = "MIT" }
 urls = { "Repository" = "https://github.com/RasoulUnlimited/Small-projects-with-python" }
