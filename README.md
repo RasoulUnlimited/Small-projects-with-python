@@ -5,6 +5,17 @@
 <h2 align="center">Small Projects with Python</h2>
 <p align="center">A collection of academic and basic practice exercises coded in Python language, projects done for Sahand University of Technology (Tabriz).</p>
 
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Folder Structure](#-folder-structure)
+- [Release](#-release)
+- [Citation](#-citation)
+- [About the Developer](#-about-the-developer)
+- [Connect With Me](#-connect-with-me)
+- [Documentation](#-documentation)
+- [License](#license)
+
 ## Overview
 
 These short programs were created as introductory coursework for the
@@ -13,6 +24,13 @@ The goal is to practice fundamental concepts&mdash;input handling, loops,
 conditionals and basic algorithms&mdash;while cultivating clear coding style.
 Although the examples are simple, they form a foundation for tackling more
 advanced numerical problems and entry-level AI algorithms in the future.
+
+## Getting Started
+
+1. Clone this repository from the [GitHub page](https://github.com/RasoulUnlimited/Small-projects-with-python).
+2. Ensure you have **Python 3** installed on your system.
+3. Run any exercise using `python PartX.py` (replace `X` with `1-8`).
+
 
 ---
 
@@ -93,3 +111,6 @@ The same information is provided in [CITATION.cff](CITATION.cff) and [CITATION.b
 
 A minimal website for this project is available via [Rasoul Unlimited Official Website](https://rasoulunlimited.ir/projects/python-projects/). It uses Cloudflare for performance and security.
 
+## License
+
+This project is distributed under the [MIT License](LICENSE).
