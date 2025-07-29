@@ -1,6 +1,17 @@
 [project]
 name = "small-projects-with-python"
 version = "1.0.0"
-authors = [ { name = "Rasoul Unlimited" } ]
+description = "A curated collection of beginner-friendly Python exercises originally developed for coursework at Sahand University of Technology."
+readme = "README.md"
+authors = [
+  { name = "Mohammad Rasoul Sohrabi", email = "rasoul.unlimited@gmail.com" }
+]
 license = { text = "MIT" }
 urls = { "Repository" = "https://github.com/RasoulUnlimited/Small-projects-with-python" }
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Intended Audience :: Education",
+  "Topic :: Education"
+]

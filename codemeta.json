@@ -11,8 +11,11 @@
       "identifier": "https://orcid.org/0009-0004-7177-2080"
     }],
     "license": "MIT",
+    "version": "1.0.0",
+    "releaseDate": "2024-06-01",
     "programmingLanguage": "Python",
     "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
     "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
     "identifier": "https://doi.org/10.5281/zenodo.15548859"
   }
+  
