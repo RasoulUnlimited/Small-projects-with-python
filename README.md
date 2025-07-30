@@ -17,7 +17,6 @@
   "url": "https://github.com/RasoulUnlimited/Small-projects-with-python",
   "license": "MIT",
   "programmingLanguage": "Python",
-  "citation": "https://doi.org/10.5281/zenodo.15548859",
   "version": "1.0.0",
   "datePublished": "2024-06-01",
   "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
@@ -29,7 +28,8 @@
   "sameAs": [
     "https://doi.org/10.5281/zenodo.15548859",
     "https://doi.org/10.5281/zenodo.16602795",
-    "https://orcid.org/0009-0004-7177-2080"
+    "https://orcid.org/0009-0004-7177-2080",
+    "https://rasoulunlimited.ir/projects/python-projects/"
   ]
 }
 -->

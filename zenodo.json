@@ -29,6 +29,11 @@
         "relation": "isRelatedTo",
         "identifier": "https://orcid.org/0009-0004-7177-2080",
         "scheme": "orcid"
+      },
+      {
+      "relation": "isReferencedBy",
+      "identifier": "https://doi.org/10.5281/zenodo.16602795",
+      "scheme": "doi"
       }
     ],
     "communities": [
