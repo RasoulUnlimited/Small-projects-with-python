@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/770882662.svg)](https://doi.org/10.5281/zenodo.15548859) [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/RasoulUnlimited/Small-projects-with-python/releases/tag/v1.0.0)
+[![DOI Software](https://zenodo.org/badge/770882662.svg)](https://doi.org/10.5281/zenodo.15548859)
+[![DOI Article](https://zenodo.org/badge/DOI/10.5281/zenodo.16602795.svg)](https://doi.org/10.5281/zenodo.16602795) [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/RasoulUnlimited/Small-projects-with-python/releases/tag/v1.0.0)
 
 
 <p align="center">
@@ -24,8 +25,10 @@
     "@type": "Course",
     "name": "Python Programming, Sahand University of Technology"
   },
+  "citation": ["https://doi.org/10.5281/zenodo.15548859", "https://doi.org/10.5281/zenodo.16602795"],
   "sameAs": [
     "https://doi.org/10.5281/zenodo.15548859",
+    "https://doi.org/10.5281/zenodo.16602795",
     "https://orcid.org/0009-0004-7177-2080"
   ]
 }
@@ -130,9 +133,32 @@ The same information is provided in [CITATION.cff](CITATION.cff) and [CITATION.b
 
 ---
 
+## 📑 Related Publication
+
+This software is accompanied by a structured article published separately with its own DOI:
+
+📖 **[Small Projects with Python: Structured Academic Exercises for Foundational Programming Skills and Open Science Practices](https://doi.org/10.5281/zenodo.16602795)** 
+
+---
+
 ## 🌐 Documentation
 
 A minimal website for this project is available via [Rasoul Unlimited Official Website](https://rasoulunlimited.ir/projects/python-projects/). It uses Cloudflare for performance and security.
+- 📖 [Published article (Zenodo)](https://doi.org/10.5281/zenodo.16602795)
+
+---
+
+## 🌟 FAIR Compliance and Open Science
+
+This repository adheres to FAIR (Findable, Accessible, Interoperable, Reusable) principles and Open Science best practices by:
+
+- 📌 Persistent identifiers (DOI) for both software and documentation
+- 📌 Rich semantic metadata (`CITATION.cff`, `codemeta.json`, `schema.org`)
+- 📌 Clear licensing (MIT)
+- 📌 Version control via GitHub
+- 📌 Openly accessible documentation
+
+---
 
 ## License
 
