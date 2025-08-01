@@ -1,29 +1,40 @@
 {
-    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-    "@type": "SoftwareSourceCode",
-    "name": "Small Projects with Python",
-    "description": "A curated collection of beginner Python exercises originally developed for coursework at Sahand University of Technology.",
-    "author": [{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Small Projects with Python",
+  "description": "A curated collection of beginner Python exercises originally developed for coursework at Sahand University of Technology.",
+  "author": [
+    {
       "@type": "Person",
       "givenName": "Mohammad Rasoul",
       "familyName": "Sohrabi",
       "affiliation": "School of Electrical and Computer Engineering, University of Tehran",
       "identifier": "https://orcid.org/0009-0004-7177-2080"
-    }],
-    "license": "MIT",
-    "version": "1.0.0",
-    "releaseDate": "2024-06-01",
-    "programmingLanguage": "Python",
-    "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
-    "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
-    "referencePublication": "https://doi.org/10.5281/zenodo.16602795",
-    "developmentStatus": "active",
-    "maintainer": {
-      "@type": "Person",
-      "name": "Mohammad Rasoul Sohrabi",
-      "email": "rasoul.unlimited@gmail.com"
-    },
-    "relatedLink": "https://rasoulunlimited.ir/projects/python-projects/",
-    "identifier": "https://doi.org/10.5281/zenodo.15548859"
-  }
-  
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "releaseDate": "2024-06-01",
+  "programmingLanguage": "Python",
+  "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
+  "keywords": [
+    "biomedical engineering",
+    "education",
+    "algorithms",
+    "numerical methods"
+  ],
+  "referencePublication": "https://doi.org/10.5281/zenodo.16602795",
+  "developmentStatus": "active",
+  "maintainer": {
+    "@type": "Person",
+    "name": "Mohammad Rasoul Sohrabi",
+    "email": "rasoul.unlimited@gmail.com"
+  },
+  "relatedLink": "https://rasoulunlimited.ir/projects/python-projects/",
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.15548859",
+    "https://orcid.org/0009-0004-7177-2080",
+    "https://github.com/RasoulUnlimited/Small-projects-with-python"
+  ],
+  "identifier": "https://doi.org/10.5281/zenodo.15548859"
+}

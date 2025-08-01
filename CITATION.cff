@@ -4,10 +4,10 @@ title: "Small Projects with Python"
 version: "1.0.0"
 doi: "10.5281/zenodo.15548859"
 authors:
- - family-names: "Sohrabi"
-   given-names: "Mohammad Rasoul"
-   orcid: "https://orcid.org/0009-0004-7177-2080"
-   affiliation: "School of Electrical and Computer Engineering, University of Tehran"
+  - family-names: "Sohrabi"
+    given-names: "Mohammad Rasoul"
+    orcid: "https://orcid.org/0009-0004-7177-2080"
+    affiliation: "School of Electrical and Computer Engineering, University of Tehran"
 repository-code: "https://github.com/RasoulUnlimited/Small-projects-with-python"
 license: "MIT"
 url: "https://rasoulunlimited.ir/projects/python-projects/"
@@ -22,6 +22,11 @@ keywords:
   - education
   - algorithms
   - numerical-methods
+contact:
+  - given-names: "Mohammad Rasoul"
+    family-names: "Sohrabi"
+    email: "rasoul.unlimited@gmail.com"
+    orcid: "https://orcid.org/0009-0004-7177-2080"
 preferred-citation: |
   @software{Sohrabi2024,
     author       = {Sohrabi, Mohammad Rasoul},
