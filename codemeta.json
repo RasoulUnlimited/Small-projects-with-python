@@ -1,6 +1,7 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
+  "@id": "https://doi.org/10.5281/zenodo.15548859",
   "name": "Small Projects with Python",
   "description": "A curated collection of beginner Python exercises originally developed for coursework at Sahand University of Technology.",
   "author": [
@@ -15,7 +16,13 @@
   "license": "MIT",
   "version": "1.0.0",
   "releaseDate": "2024-06-01",
-  "programmingLanguage": "Python",
+  "programmingLanguage": {
+    "@type": "ComputerLanguage",
+    "name": "Python",
+    "url": "https://www.python.org/"
+  },
+  "softwareRequirements": "Python >=3.6",
+  "applicationCategory": "EducationApplication",
   "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
   "url": "https://rasoulunlimited.ir/projects/python-projects/",
   "keywords": [
@@ -30,6 +37,11 @@
     "name": "Python Programming, Sahand University of Technology"
   },
   "referencePublication": "https://doi.org/10.5281/zenodo.16602795",
+  "citation": {
+    "@type": "CreativeWork",
+    "name": "Small Projects with Python: Structured Academic Exercises for Foundational Programming Skills and Open Science Practices",
+    "identifier": "https://doi.org/10.5281/zenodo.16602795"
+  },
   "developmentStatus": "active",
   "maintainer": {
     "@type": "Person",

@@ -55,6 +55,13 @@ conditionals and basic algorithms&mdash;while cultivating clear coding style.
 Although the examples are simple, they form a foundation for tackling more
 advanced numerical problems and entry-level AI algorithms in the future.
 
+🧠 These programs cover:
+- Input/output handling
+- Conditionals and loops
+- Prime detection and number theory
+- Algorithmic thinking (Newton, Stirling, etc.)
+
+
 ## Getting Started
 
 1. Clone this repository from the [GitHub page](https://github.com/RasoulUnlimited/Small-projects-with-python).
