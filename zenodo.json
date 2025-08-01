@@ -13,7 +13,13 @@
   "license": "MIT",
   "version": "1.0.0",
   "doi": "10.5281/zenodo.15548859",
-  "keywords": ["Python", "education", "algorithms", "numerical-methods"],
+  "keywords": [
+    "Python",
+    "biomedical engineering",
+    "education",
+    "algorithms",
+    "numerical methods"
+  ],
   "related_identifiers": [
     {
       "relation": "isSupplementTo",

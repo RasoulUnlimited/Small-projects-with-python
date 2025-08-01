@@ -19,7 +19,7 @@
   "programmingLanguage": "Python",
   "version": "1.0.0",
   "datePublished": "2024-06-01",
-  "keywords": ["biomedical engineering", "education", "algorithms", "numerical methods"],
+  "keywords": ["Python", "biomedical engineering", "education", "algorithms", "numerical methods"],
   "isPartOf": {
     "@type": "Course",
     "name": "Python Programming, Sahand University of Technology"

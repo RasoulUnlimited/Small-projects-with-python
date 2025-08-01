@@ -19,9 +19,10 @@ abstract: |
 date-released: 2024-06-01
 keywords:
   - Python
+  - biomedical engineering
   - education
   - algorithms
-  - numerical-methods
+  - numerical methods
 contact:
   - given-names: "Mohammad Rasoul"
     family-names: "Sohrabi"

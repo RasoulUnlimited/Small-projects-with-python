@@ -18,11 +18,16 @@
   "programmingLanguage": "Python",
   "codeRepository": "https://github.com/RasoulUnlimited/Small-projects-with-python",
   "keywords": [
+    "Python",
     "biomedical engineering",
     "education",
     "algorithms",
     "numerical methods"
   ],
+  "isPartOf": {
+    "@type": "Course",
+    "name": "Python Programming, Sahand University of Technology"
+  },
   "referencePublication": "https://doi.org/10.5281/zenodo.16602795",
   "developmentStatus": "active",
   "maintainer": {
